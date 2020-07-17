@@ -1,0 +1,36 @@
+{
+  "streams": [
+    {
+      "title": "My stream",
+      "description": "New super stream",
+      "id": 1
+    },
+    {
+      "title": "new stream",
+      "description": "another one",
+      "id": 2
+    },
+    {
+      "title": "newest stream",
+      "description": "asd",
+      "id": 3
+    },
+    {
+      "title": "new stream!",
+      "description": "with uio now",
+      "userId": "116617630257686954694",
+      "id": 4
+    },
+    {
+      "title": "history",
+      "description": "testing history router and editi with patch",
+      "userId": "116617630257686954694",
+      "id": 5
+    },
+    {
+      "title": "final stream",
+      "description": "final stream after refactoring and editing",
+      "id": 6
+    }
+  ]
+}
